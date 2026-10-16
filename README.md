@@ -1,6 +1,6 @@
-# Hola, soy Lucas Pesqueira 👋
+# Hola, soy Lucas Pesqueira.
 
-Estudiante de 2° año de **Ingeniería en Informática en UADE**. Me interesa el desarrollo de software, el desarrollo web y la administración de sistemas Linux.
+Tengo 21 años y estudio Ingeniería en Informática en UADE (2° año). Me interesa el desarrollo de software, sobre todo la creación de aplicaciones y la automatización de flujos de trabajo. Tengo proyectos de desarrollo web y conocimientos en administración de sistemas Linux. Incorporo herramientas de IA en mi forma de trabajar para desarrollar más rápido y mejor.
 
 ### 🛠️ Tecnologías
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
